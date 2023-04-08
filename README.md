@@ -10,7 +10,7 @@ This is a newsletter signup website.
 
 
 
-# Website hoste don glitch:-[Newsletter Signup](https://pepper-invented-wire.glitch.me/)
+# Website hosted on glitch:-[Newsletter Signup](https://newsletter-signup-website.glitch.me/)
 
 #### Author
 
