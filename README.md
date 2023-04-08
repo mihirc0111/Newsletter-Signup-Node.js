@@ -12,6 +12,7 @@ This is a newsletter signup website.
 
 # Website hosted on glitch:-[Newsletter Signup](https://newsletter-signup-website.glitch.me/)
 ### Difficultes Faced- This project has to be started from glitch,then only this webiste works as i am using free plan the webiste is not live 24/7.
+# Website hosted on render successfully!:- https://mihirs-newsletter.onrender.com
 #### Author
 
 LinkedIn - [Mihir Chavan](https://www.linkedin.com/in/mihir-chavan-643615234/)
